@@ -1,0 +1,2 @@
+rootProject.name='CalculatorWithMenu'
+include ':app'
